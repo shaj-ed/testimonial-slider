@@ -9,5 +9,5 @@ Users should be able to:
 - Navigate the slider using either their mouse/trackpad or keyboard
 
 ## Solution URL
-- [Frontend Mentor]()
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonial-sliderhtml5-css-js-grid-V7awWrse5)
 - [Netlify](https://ed-testimonial-slider.netlify.app/)
